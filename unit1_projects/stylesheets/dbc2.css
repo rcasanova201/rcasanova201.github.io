@@ -1,0 +1,37 @@
+	header {background-color:#43983b;
+            padding:20px;
+            border-color:#e6d690;
+            border-width:4px;
+            border-style:solid;
+            font-style:bold;
+            font-size: 30px;
+
+  	}
+
+  	#sidebar{float:right;
+              
+  	}
+
+  	#main-content{margin:100px;
+                  margin-right:225px
+                  main-content:center;
+  	}
+
+
+
+  	body   {background-color:#f4f4f4;
+            margin:5px;
+            font-family:Book Antiqua;
+            position:absolute;
+  	}
+
+
+
+  	footer {background-color:#43983b;
+            padding:5px;
+            border-color:#e6d690;
+            border-width:6px;
+            border-style:solid;
+            font-style:bold;
+            font-size: 17px;
+    }
